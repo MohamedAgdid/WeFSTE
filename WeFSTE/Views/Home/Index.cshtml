@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+<div class="container mt-5">
+    <div class="row align-items-center">
+        <div class="col-md-6 text-center text-md-start">
+            <h1 class="display-4 fw-bold">Welcome to <span class="text-primary">WeFSTE</span></h1>
+            <p class="lead mt-3">
+                The academic platform for FSTE students and professors.<br />
+                Share your projects, explore articles, and collaborate in a space dedicated to knowledge.
+            </p>
+            <a asp-controller="Auth" asp-action="SignUp" class="btn btn-primary btn-lg mt-3">Join Us</a>
+
+            
+        </div>
+        <div class="col-md-6 text-center">
+            <img src="~/images/welcome_blog.jpeg" alt="WeFSTE Blog Illustration" class="img-fluid rounded-4 shadow" style="max-height: 350px;" />
+        </div>
+    </div>
+</div>

@@ -1,0 +1,97 @@
+﻿@using System.Text.RegularExpressions
+@model IEnumerable<Post>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<style>
+
+.btn-outline-orange {
+    border: 2px solid #e65100;
+    color: #e65100;
+    background-color: white;
+    padding: 0.4rem 1rem;
+    border-radius: 30px;
+    font-weight: 600;
+    transition: all 0.3s ease-in-out;
+    text-transform: capitalize;
+}
+
+.btn-outline-orange:hover {
+    background-color: #e65100;
+    color: white;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.category-pill {
+    white-space: nowrap;
+}
+</style>
+
+
+
+<!-- Header with Title and Create Button -->
+<!-- Categories Row -->
+<div class="container my-0">
+    @if (ViewBag.Categories != null)
+    {
+        <div class="d-flex flex-wrap justify-content-center gap-3">
+            @foreach (var category in ViewBag.Categories)
+            {
+                <a asp-controller="Post"
+                   asp-action="Index"
+                   asp-route-categoryId="@category.Id"
+                   class="btn btn-outline-orange category-pill">
+                    @category.Name
+                </a>
+            }
+        </div>
+    }
+</div>
+
+
+<style>
+    /* Add a subtle scale effect on hover */
+    .hover-scale:hover {
+        transform: scale(1.1);
+        transition: transform 0.2s ease-in-out;
+        text-decoration: none !important;
+    }
+</style>
+
+
+<!-- Create button visible to ALL users (role check removed) -->
+<div class="text-end my-2">
+    <a class="btn btn-primary rounded" asp-action="Create" asp-controller="Post">Create New Post</a>
+</div>
+
+<!-- Displaying Blog Posts in Cards -->
+<div class="row row-cols-1 row-cols-md-3 g-4">
+    @foreach (var post in Model)
+    {
+        <div class="col">
+            <div class="card h-100 border-0 shadow-lg rounded-1">
+                <img src="@(string.IsNullOrEmpty(post.FeatureImagePath)
+                   ? Url.Content("~/images/welcome_blog.jpeg")
+                  : Url.Content($"{post.FeatureImagePath}"))"
+                class="card-img-top"
+                     alt="@post.Title"
+                     style="height: 300px; object-fit: cover;" />
+
+                <div class="card-body">
+                    <h5 class="card-title">@post.Title</h5>
+                    <p class="text-muted mb-2">Published on @post.PublishedDate.ToString("MMMM dd, yyyy")</p>
+                    <span class="badge bg-secondary">@post.Category?.Name</span>
+                </div>
+
+                <div class="card-footer d-flex justify-content-between align-items-center">
+                    <a asp-action="Detail" asp-route-id="@post.Id" class="btn btn-primary btn-sm">Read More</a>
+                    <div class="text-end">
+                        <small class="text-muted">By @post.Author</small>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>

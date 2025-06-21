@@ -1,0 +1,34 @@
+﻿@model SignInViewModel
+@{
+    ViewData["Title"] = "Se connecter";
+}
+
+<div class="container mt-5" style="max-width: 500px;">
+    <div class="card shadow-sm">
+        <div class="card-header bg-primary text-white text-center">
+            <h4 class="mb-0">Connexion</h4>
+        </div>
+        <div class="card-body">
+            <form asp-action="SignIn" method="post" novalidate>
+                @* <div asp-validation-summary="All" class="alert alert-danger" role="alert"></div> *@
+
+                <div class="mb-3">
+                    <label asp-for="Email" class="form-label"></label>
+                    <input asp-for="Email" class="form-control" />
+                    <span asp-validation-for="Email" class="text-danger small"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Password" class="form-label"></label>
+                    <input asp-for="Password" class="form-control" type="password" />
+                    <span asp-validation-for="Password" class="text-danger small"></span>
+                </div>
+
+                <div class="d-grid gap-2">
+                    <button type="submit" class="btn btn-primary">Se connecter</button>
+                    <a asp-action="Index" asp-controller="home" class="btn btn-outline-secondary">Retour</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
