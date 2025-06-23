@@ -1,0 +1,442 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\WeFSTE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0F98DF-415E-454A-B588-1F2CD40FFE3B}|WeFSTE\\WeFSTE.csproj|c:\\users\\hp\\desktop\\wefste\\wefste\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A0F98DF-415E-454A-B588-1F2CD40FFE3B}|WeFSTE\\WeFSTE.csproj|solutionrelative:wefste\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0F98DF-415E-454A-B588-1F2CD40FFE3B}|WeFSTE\\WeFSTE.csproj|c:\\users\\hp\\desktop\\wefste\\wefste\\views\\post\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A0F98DF-415E-454A-B588-1F2CD40FFE3B}|WeFSTE\\WeFSTE.csproj|solutionrelative:wefste\\views\\post\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0F98DF-415E-454A-B588-1F2CD40FFE3B}|WeFSTE\\WeFSTE.csproj|c:\\users\\hp\\desktop\\wefste\\wefste\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0F98DF-415E-454A-B588-1F2CD40FFE3B}|WeFSTE\\WeFSTE.csproj|solutionrelative:wefste\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\WeFSTE\\WeFSTE\\Migrations\\20250623151236_SeedingInitialData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WeFSTE\\Migrations\\20250623151236_SeedingInitialData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0F98DF-415E-454A-B588-1F2CD40FFE3B}|WeFSTE\\WeFSTE.csproj|c:\\users\\hp\\desktop\\wefste\\wefste\\migrations\\20250623151123_createinitialdatabasetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0F98DF-415E-454A-B588-1F2CD40FFE3B}|WeFSTE\\WeFSTE.csproj|solutionrelative:wefste\\migrations\\20250623151123_createinitialdatabasetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0F98DF-415E-454A-B588-1F2CD40FFE3B}|WeFSTE\\WeFSTE.csproj|c:\\users\\hp\\desktop\\wefste\\wefste\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8A0F98DF-415E-454A-B588-1F2CD40FFE3B}|WeFSTE\\WeFSTE.csproj|solutionrelative:wefste\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0F98DF-415E-454A-B588-1F2CD40FFE3B}|WeFSTE\\WeFSTE.csproj|c:\\users\\hp\\desktop\\wefste\\wefste\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0F98DF-415E-454A-B588-1F2CD40FFE3B}|WeFSTE\\WeFSTE.csproj|solutionrelative:wefste\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0F98DF-415E-454A-B588-1F2CD40FFE3B}|WeFSTE\\WeFSTE.csproj|c:\\users\\hp\\desktop\\wefste\\wefste\\wefste.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8A0F98DF-415E-454A-B588-1F2CD40FFE3B}|WeFSTE\\WeFSTE.csproj|solutionrelative:wefste\\wefste.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0F98DF-415E-454A-B588-1F2CD40FFE3B}|WeFSTE\\WeFSTE.csproj|c:\\users\\hp\\desktop\\wefste\\wefste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0F98DF-415E-454A-B588-1F2CD40FFE3B}|WeFSTE\\WeFSTE.csproj|solutionrelative:wefste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0F98DF-415E-454A-B588-1F2CD40FFE3B}|WeFSTE\\WeFSTE.csproj|c:\\users\\hp\\desktop\\wefste\\wefste\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0F98DF-415E-454A-B588-1F2CD40FFE3B}|WeFSTE\\WeFSTE.csproj|solutionrelative:wefste\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0F98DF-415E-454A-B588-1F2CD40FFE3B}|WeFSTE\\WeFSTE.csproj|c:\\users\\hp\\desktop\\wefste\\wefste\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A0F98DF-415E-454A-B588-1F2CD40FFE3B}|WeFSTE\\WeFSTE.csproj|solutionrelative:wefste\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0F98DF-415E-454A-B588-1F2CD40FFE3B}|WeFSTE\\WeFSTE.csproj|c:\\users\\hp\\desktop\\wefste\\wefste\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A0F98DF-415E-454A-B588-1F2CD40FFE3B}|WeFSTE\\WeFSTE.csproj|solutionrelative:wefste\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0F98DF-415E-454A-B588-1F2CD40FFE3B}|WeFSTE\\WeFSTE.csproj|c:\\users\\hp\\desktop\\wefste\\wefste\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A0F98DF-415E-454A-B588-1F2CD40FFE3B}|WeFSTE\\WeFSTE.csproj|solutionrelative:wefste\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0F98DF-415E-454A-B588-1F2CD40FFE3B}|WeFSTE\\WeFSTE.csproj|c:\\users\\hp\\desktop\\wefste\\wefste\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A0F98DF-415E-454A-B588-1F2CD40FFE3B}|WeFSTE\\WeFSTE.csproj|solutionrelative:wefste\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0F98DF-415E-454A-B588-1F2CD40FFE3B}|WeFSTE\\WeFSTE.csproj|c:\\users\\hp\\desktop\\wefste\\wefste\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0F98DF-415E-454A-B588-1F2CD40FFE3B}|WeFSTE\\WeFSTE.csproj|solutionrelative:wefste\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0F98DF-415E-454A-B588-1F2CD40FFE3B}|WeFSTE\\WeFSTE.csproj|c:\\users\\hp\\desktop\\wefste\\wefste\\models\\viewmodels\\postviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0F98DF-415E-454A-B588-1F2CD40FFE3B}|WeFSTE\\WeFSTE.csproj|solutionrelative:wefste\\models\\viewmodels\\postviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0F98DF-415E-454A-B588-1F2CD40FFE3B}|WeFSTE\\WeFSTE.csproj|c:\\users\\hp\\desktop\\wefste\\wefste\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0F98DF-415E-454A-B588-1F2CD40FFE3B}|WeFSTE\\WeFSTE.csproj|solutionrelative:wefste\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0F98DF-415E-454A-B588-1F2CD40FFE3B}|WeFSTE\\WeFSTE.csproj|c:\\users\\hp\\desktop\\wefste\\wefste\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0F98DF-415E-454A-B588-1F2CD40FFE3B}|WeFSTE\\WeFSTE.csproj|solutionrelative:wefste\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0F98DF-415E-454A-B588-1F2CD40FFE3B}|WeFSTE\\WeFSTE.csproj|c:\\users\\hp\\desktop\\wefste\\wefste\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A0F98DF-415E-454A-B588-1F2CD40FFE3B}|WeFSTE\\WeFSTE.csproj|solutionrelative:wefste\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0F98DF-415E-454A-B588-1F2CD40FFE3B}|WeFSTE\\WeFSTE.csproj|c:\\users\\hp\\desktop\\wefste\\wefste\\views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A0F98DF-415E-454A-B588-1F2CD40FFE3B}|WeFSTE\\WeFSTE.csproj|solutionrelative:wefste\\views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0F98DF-415E-454A-B588-1F2CD40FFE3B}|WeFSTE\\WeFSTE.csproj|c:\\users\\hp\\desktop\\wefste\\wefste\\views\\auth\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A0F98DF-415E-454A-B588-1F2CD40FFE3B}|WeFSTE\\WeFSTE.csproj|solutionrelative:wefste\\views\\auth\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0F98DF-415E-454A-B588-1F2CD40FFE3B}|WeFSTE\\WeFSTE.csproj|c:\\users\\hp\\desktop\\wefste\\wefste\\views\\auth\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A0F98DF-415E-454A-B588-1F2CD40FFE3B}|WeFSTE\\WeFSTE.csproj|solutionrelative:wefste\\views\\auth\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0F98DF-415E-454A-B588-1F2CD40FFE3B}|WeFSTE\\WeFSTE.csproj|c:\\users\\hp\\desktop\\wefste\\wefste\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A0F98DF-415E-454A-B588-1F2CD40FFE3B}|WeFSTE\\WeFSTE.csproj|solutionrelative:wefste\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0F98DF-415E-454A-B588-1F2CD40FFE3B}|WeFSTE\\WeFSTE.csproj|c:\\users\\hp\\desktop\\wefste\\wefste\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A0F98DF-415E-454A-B588-1F2CD40FFE3B}|WeFSTE\\WeFSTE.csproj|solutionrelative:wefste\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0F98DF-415E-454A-B588-1F2CD40FFE3B}|WeFSTE\\WeFSTE.csproj|c:\\users\\hp\\desktop\\wefste\\wefste\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A0F98DF-415E-454A-B588-1F2CD40FFE3B}|WeFSTE\\WeFSTE.csproj|solutionrelative:wefste\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0F98DF-415E-454A-B588-1F2CD40FFE3B}|WeFSTE\\WeFSTE.csproj|c:\\users\\hp\\desktop\\wefste\\wefste\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A0F98DF-415E-454A-B588-1F2CD40FFE3B}|WeFSTE\\WeFSTE.csproj|solutionrelative:wefste\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250623151236_SeedingInitialData.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\WeFSTE\\WeFSTE\\Migrations\\20250623151236_SeedingInitialData.cs",
+              "RelativeDocumentMoniker": "WeFSTE\\Migrations\\20250623151236_SeedingInitialData.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\WeFSTE\\WeFSTE\\Migrations\\20250623151236_SeedingInitialData.cs",
+              "RelativeToolTip": "WeFSTE\\Migrations\\20250623151236_SeedingInitialData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T15:12:37.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250623151123_CreateInitialDatabaseTable.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\WeFSTE\\WeFSTE\\Migrations\\20250623151123_CreateInitialDatabaseTable.cs",
+              "RelativeDocumentMoniker": "WeFSTE\\Migrations\\20250623151123_CreateInitialDatabaseTable.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\WeFSTE\\WeFSTE\\Migrations\\20250623151123_CreateInitialDatabaseTable.cs",
+              "RelativeToolTip": "WeFSTE\\Migrations\\20250623151123_CreateInitialDatabaseTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T15:11:23.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeFSTE.csproj",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\WeFSTE\\WeFSTE\\WeFSTE.csproj",
+              "RelativeDocumentMoniker": "WeFSTE\\WeFSTE.csproj",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\WeFSTE\\WeFSTE\\WeFSTE.csproj",
+              "RelativeToolTip": "WeFSTE\\WeFSTE.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-21T20:47:10.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\WeFSTE\\WeFSTE\\appsettings.json",
+              "RelativeDocumentMoniker": "WeFSTE\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\WeFSTE\\WeFSTE\\appsettings.json",
+              "RelativeToolTip": "WeFSTE\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-21T20:46:10.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\WeFSTE\\WeFSTE\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WeFSTE\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\WeFSTE\\WeFSTE\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WeFSTE\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-21T19:24:28.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\WeFSTE\\WeFSTE\\Views\\Post\\Detail.cshtml",
+              "RelativeDocumentMoniker": "WeFSTE\\Views\\Post\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\WeFSTE\\WeFSTE\\Views\\Post\\Detail.cshtml",
+              "RelativeToolTip": "WeFSTE\\Views\\Post\\Detail.cshtml",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAEwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-21T18:57:28.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\WeFSTE\\WeFSTE\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WeFSTE\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\WeFSTE\\WeFSTE\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "WeFSTE\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T18:51:50.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\WeFSTE\\WeFSTE\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "WeFSTE\\Models\\Post.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\WeFSTE\\WeFSTE\\Models\\Post.cs",
+              "RelativeToolTip": "WeFSTE\\Models\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T18:11:32.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PostViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\WeFSTE\\WeFSTE\\Models\\ViewModels\\PostViewModel.cs",
+              "RelativeDocumentMoniker": "WeFSTE\\Models\\ViewModels\\PostViewModel.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\WeFSTE\\WeFSTE\\Models\\ViewModels\\PostViewModel.cs",
+              "RelativeToolTip": "WeFSTE\\Models\\ViewModels\\PostViewModel.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T18:11:30.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\WeFSTE\\WeFSTE\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "WeFSTE\\Controllers\\PostController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\WeFSTE\\WeFSTE\\Controllers\\PostController.cs",
+              "RelativeToolTip": "WeFSTE\\Controllers\\PostController.cs",
+              "ViewState": "AgIAAC4BAAAAAAAAAAAnwEkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T17:30:27.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_NavBar.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\WeFSTE\\WeFSTE\\Views\\Shared\\_NavBar.cshtml",
+              "RelativeDocumentMoniker": "WeFSTE\\Views\\Shared\\_NavBar.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\WeFSTE\\WeFSTE\\Views\\Shared\\_NavBar.cshtml",
+              "RelativeToolTip": "WeFSTE\\Views\\Shared\\_NavBar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-21T17:24:14.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\WeFSTE\\WeFSTE\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WeFSTE\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\WeFSTE\\WeFSTE\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WeFSTE\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvwoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-21T17:23:59.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\WeFSTE\\WeFSTE\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WeFSTE\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\WeFSTE\\WeFSTE\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WeFSTE\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAEwBMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-21T17:21:59.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\WeFSTE\\WeFSTE\\Program.cs",
+              "RelativeDocumentMoniker": "WeFSTE\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\WeFSTE\\WeFSTE\\Program.cs",
+              "RelativeToolTip": "WeFSTE\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T17:08:29.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\WeFSTE\\WeFSTE\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "WeFSTE\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\WeFSTE\\WeFSTE\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "WeFSTE\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-21T17:04:23.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\WeFSTE\\WeFSTE\\Views\\Shared\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "WeFSTE\\Views\\Shared\\_Footer.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\WeFSTE\\WeFSTE\\Views\\Shared\\_Footer.cshtml",
+              "RelativeToolTip": "WeFSTE\\Views\\Shared\\_Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-21T17:00:09.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\WeFSTE\\WeFSTE\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WeFSTE\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\WeFSTE\\WeFSTE\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WeFSTE\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T16:59:23.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\WeFSTE\\WeFSTE\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "WeFSTE\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\WeFSTE\\WeFSTE\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "WeFSTE\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T16:59:22.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\WeFSTE\\WeFSTE\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WeFSTE\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\WeFSTE\\WeFSTE\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WeFSTE\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T16:59:20.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SignIn.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\WeFSTE\\WeFSTE\\Views\\Auth\\SignIn.cshtml",
+              "RelativeDocumentMoniker": "WeFSTE\\Views\\Auth\\SignIn.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\WeFSTE\\WeFSTE\\Views\\Auth\\SignIn.cshtml",
+              "RelativeToolTip": "WeFSTE\\Views\\Auth\\SignIn.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-21T16:58:43.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\WeFSTE\\WeFSTE\\Views\\Auth\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "WeFSTE\\Views\\Auth\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\WeFSTE\\WeFSTE\\Views\\Auth\\AccessDenied.cshtml",
+              "RelativeToolTip": "WeFSTE\\Views\\Auth\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-21T16:58:41.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\WeFSTE\\WeFSTE\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "WeFSTE\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\WeFSTE\\WeFSTE\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "WeFSTE\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-21T16:58:06.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\WeFSTE\\WeFSTE\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WeFSTE\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\WeFSTE\\WeFSTE\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "WeFSTE\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-21T16:57:36.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\WeFSTE\\WeFSTE\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WeFSTE\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\WeFSTE\\WeFSTE\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "WeFSTE\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-21T16:56:55.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\WeFSTE\\WeFSTE\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "WeFSTE\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\WeFSTE\\WeFSTE\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "WeFSTE\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-21T16:55:13.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\WeFSTE\\WeFSTE\\Views\\Auth\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "WeFSTE\\Views\\Auth\\SignUp.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\WeFSTE\\WeFSTE\\Views\\Auth\\SignUp.cshtml",
+              "RelativeToolTip": "WeFSTE\\Views\\Auth\\SignUp.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-21T16:54:04.822Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -103,7 +103,6 @@
                  var content = $('#Content').val();
                  var postId = @Model.Id;
 
-                alert("here I am "+userName + " "+content + " " + postId);
 
                  $.ajax({
                     url: '@Url.Action("AddComment", "Post")',
